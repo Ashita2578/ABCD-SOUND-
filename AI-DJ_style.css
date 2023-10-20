@@ -1,0 +1,48 @@
+body{
+ background-size:cover;
+}
+.note{
+    color:black;
+    font: size 15px;
+}
+
+.div_speed{
+    float:left;
+}
+.div_speed_img{
+    width: 200px;
+    border-radius: 80px;
+    height: 100px;
+}
+#id_speed{
+    font-size: 26px;
+    margin: 15px;
+}
+.div_vol{
+    float:right;
+}
+.div_vol_img{
+    width: 160px;
+    height: 80px;
+    border-radius: 15px;
+}
+#id_vol{
+    font-size: 26px;
+    margin:15px;
+}
+.play_button {
+    width: 130px;
+    font-size: 25px;
+}
+canvas{
+    border: 5px solid aqua;
+   
+}
+.foot_header{
+    position: fixed;
+    background-color: gold;
+    color: royalblue;
+    font-size: 20px;
+    width: 100%;
+    text-align: center;
+}
